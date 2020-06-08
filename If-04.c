@@ -2,10 +2,10 @@
 
 int main (){
 
-	char lluvia = s;
+	char lluvia = 1;
 	char paraguas = s;
 
-	printf("¿Esta lloviendo?\nIngresa [s] para si y [n] para no\n");
+	printf("¿Esta lloviendo?\nIngresa [1] para si y [2] para no\n");
 	scanf(" %c", &lluvia);
 
 	if (lluvia = s)
@@ -17,11 +17,11 @@ int main (){
 		{
 			printf("Está lloviendo, no lo olvides.");
 		}
-		if else
+		else
 		{
 			printf("Está lloviendo, a correr");
 		}
-	if else
+	else
 	{
 		printf("No llueve.");
 	}
